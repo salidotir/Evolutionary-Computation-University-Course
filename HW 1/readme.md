@@ -46,3 +46,6 @@ for i=1 to number_of_iterations:
     # perform survival selection and create the new population with childs
     self.population = self.survival_selectrion_fn(self.population, child1, child2)
 ```
+
+6) Output:
+<img src="https://user-images.githubusercontent.com/35997721/144418336-9e3c1a2d-6b64-46b7-b274-5d49537f92e8.png" width="400">
