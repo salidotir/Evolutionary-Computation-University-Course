@@ -1,0 +1,13 @@
+es_type (mu,landa)
+max_iter 25
+dimension 3
+mu 20
+landa 100
+is_mutation_enabled True
+mutation_type type-3
+recombination_type type-4
+x_min -500
+x_max 500
+pc 100
+pm 60
+scale_pop 7
